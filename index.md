@@ -1,12 +1,12 @@
 
-# I'm Swapnil Chand . Welcome to my world . #                                                                               ![]()
+# I'm Swapnil Chand . Welcome to my world .                                                                                ![Profile Picture](https://github.com/SwapnilChand/SwapnilChand.github.io/blob/main/photo_2021-04-17_17-28-39%20(2).jpg)
 
-# 
+ 
 - _Pursuing Bachelors in CSE_
 - _Computer Science Enthusiast_
 - _Love music and books_
 - _Happiness for all is the goal!_
-#
+
 
 
 
@@ -16,7 +16,6 @@
 - _Workout at gym and play sports (From nerd to fitness freak ;) )_
 - _Play piano, guitar or sing_
 - _Working with teams and like minded people_
-##
 
 
 
