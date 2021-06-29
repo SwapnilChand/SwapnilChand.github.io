@@ -15,10 +15,10 @@
 - _Working with teams and like minded people_
 
 ######
-- *[LinkedIn](https://www.linkedin.com/in/swapnil-chand-887aa117a/)*
-- *[Github](https://github.com/SwapnilChand/)*
-- *[Facebook](https://www.facebook.com/swapnil.chand.399)*
-- *[Twitter](https://twitter.com/Swapnil43128204)*
+ *[LinkedIn](https://www.linkedin.com/in/swapnil-chand-887aa117a/)*
+ *[Github](https://github.com/SwapnilChand/)*
+ *[Facebook](https://www.facebook.com/swapnil.chand.399)*
+ *[Twitter](https://twitter.com/Swapnil43128204)*
 
 
 
