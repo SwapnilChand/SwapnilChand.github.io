@@ -1,4 +1,3 @@
-## Hello World
 
 # I'm Swapnil Chand . Welcome to my world . #
 
