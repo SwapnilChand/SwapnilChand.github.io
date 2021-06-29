@@ -1,5 +1,5 @@
 
-# I'm Swapnil Chand . Welcome to my world .                                                                                ![Profile Picture](https://github.com/SwapnilChand/SwapnilChand.github.io/blob/main/profile%20(2).jpg)
+# I'm Swapnil Chand . Welcome to my world .                                                                                ![](https://github.com/SwapnilChand/SwapnilChand.github.io/blob/main/profile%20(2).jpg)
 
  
 - _Pursuing Bachelors in CSE_
@@ -11,7 +11,6 @@
 
 
 
-## 
 - _I love reading books (philosophical/spiritual)_
 - _Workout at gym and play sports (From nerd to fitness freak ;) )_
 - _Play piano, guitar or sing_
