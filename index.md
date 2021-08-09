@@ -1,5 +1,5 @@
 
-# I'm Swapnil Chand . Welcome to my world .                                                                                ![](https://github.com/SwapnilChand/SwapnilChand.github.io/blob/main/profile%20(2).jpg)
+# I'm Swapnil Chand . Welcome to my world .                                                                                
 
  
 - _Pursuing Bachelors in CSE_
