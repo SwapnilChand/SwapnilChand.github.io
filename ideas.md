@@ -18,3 +18,6 @@
 - can set up stalls around gyms which sell good lassi, coconut drinks, badam shakes etc
 - can differ from state to state
 - common items throughout the world, if it ever grows so big, can include food like protein shakes, brown bread sandwiches, bananas, etc.
+
+### Wordle Hints 
+- a webapp to give hints for words in wordle
