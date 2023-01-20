@@ -21,3 +21,8 @@
 
 ### Wordle Hints 
 - a webapp to give hints for words in wordle
+
+### International Food Delivery
+
+### Make Instagram Accounts and upload daily progress of skills you want to learn
+-  ~~@swapnil.sings insta account ~~
